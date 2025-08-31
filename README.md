@@ -1,4 +1,3 @@
-
 # 🤝 Collaborative WebRTC Workspace
 
 A blazing-fast, all-in-one collaborative document editor and whiteboard. Built for instant loading, peer-to-peer privacy, and maximum compatibility—even on ancient hardware. No servers, no dependencies, no nonsense.
@@ -48,14 +47,26 @@ A blazing-fast, all-in-one collaborative document editor and whiteboard. Built f
 
 ## 📸 Screenshots
 
-![Main App UI](<img width="1246" height="887" alt="image" src="https://github.com/user-attachments/assets/263ac416-9be1-49cb-8354-e837ad8fe62e" />)
-![Document Editor](<img width="1222" height="873" alt="image" src="https://github.com/user-attachments/assets/2ad37537-a465-494c-9a29-622a093e660f" />)
-![Whiteboard](<img width="1253" height="897" alt="image" src="https://github.com/user-attachments/assets/7220f820-9da9-4d07-bf9a-c43dc1db6ac9" />)
-![Create Room](<img width="1240" height="865" alt="image" src="https://github.com/user-attachments/assets/a6074bea-5efd-4c6d-aabd-97397a5b384c" />)
-![Join Room](<img width="1532" height="766" alt="image" src="https://github.com/user-attachments/assets/b3fcf1e3-3f0f-48cb-a5c9-26f95f4c5bba" />)
-![Accept Response Token](<img width="1173" height="616" alt="image" src="https://github.com/user-attachments/assets/30a3b617-7a7b-4307-a5d3-e2bc25e3ea49" />)
-![Participants List](<img width="850" height="865" alt="image" src="https://github.com/user-attachments/assets/09b5c8be-4880-4eb0-be7a-95d1b9ba0908" />)
-![Mobile View](<img width="1170" height="3096" alt="_C__Users_dhruv_Downloads_webrtc_collaboration html(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/78ffd672-292e-4a48-9899-c799f1740481" />)
+### Main App UI 
+<img width="1246" height="887" alt="image" src="https://github.com/user-attachments/assets/263ac416-9be1-49cb-8354-e837ad8fe62e" />
+
+### Document Editor
+<img width="1222" height="873" alt="image" src="https://github.com/user-attachments/assets/2ad37537-a465-494c-9a29-622a093e660f" />
+
+### Whiteboard
+<img width="1253" height="897" alt="image" src="https://github.com/user-attachments/assets/7220f820-9da9-4d07-bf9a-c43dc1db6ac9" />
+
+### Create Room
+<img width="1240" height="865" alt="image" src="https://github.com/user-attachments/assets/a6074bea-5efd-4c6d-aabd-97397a5b384c" />
+
+### Join Room
+<img width="1532" height="766" alt="image" src="https://github.com/user-attachments/assets/b3fcf1e3-3f0f-48cb-a5c9-26f95f4c5bba" />
+
+### Accept Response Token
+<img width="1173" height="616" alt="image" src="https://github.com/user-attachments/assets/30a3b617-7a7b-4307-a5d3-e2bc25e3ea49" />
+
+### Participants List 
+<img width="850" height="865" alt="image" src="https://github.com/user-attachments/assets/09b5c8be-4880-4eb0-be7a-95d1b9ba0908" />
 
 
 ## 💡 Performance Tips
