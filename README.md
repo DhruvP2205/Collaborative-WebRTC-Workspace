@@ -24,7 +24,7 @@ A blazing-fast, all-in-one collaborative document editor and whiteboard. Built f
 ## 🛠️ Step-by-Step Setup & Usage
 
 1. Open in your browser
-- Open the link `[Collaborative Workspace](https://dhruvp2205.github.io/Collaborative-WebRTC-Workspace/)` it into Chrome, Edge, or Firefox.
+- Open the link `https://dhruvp2205.github.io/Collaborative-WebRTC-Workspace/` it into Chrome, Edge, or Firefox.
 
 2. Create or Join a Room
 - Click Create Room to start a new session.
